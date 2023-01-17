@@ -230,6 +230,7 @@
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
+* [D-Velop](https://extensions.panic.com/extensions/tech.staysail/tech.staysail.ServeD/) - Nova extension for D using serve-d
 
 <br/>
 
